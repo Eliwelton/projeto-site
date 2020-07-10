@@ -9,7 +9,9 @@ body{
 }
 
 .principal{
+    margin: 5%;
     width: 50%;
     margin: auto;
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.555);
+    background-color: white;
 }
