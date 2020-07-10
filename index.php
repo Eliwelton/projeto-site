@@ -12,7 +12,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos cum inventore at temporibus iusto eveniet, dolor quaerat corporis et natus quis hic aliquam labore voluptates quasi consectetur modi saepe? Rerum.</p>
 
         <h1>Banhcs e Marge</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos cum inventore at temporibus iusto eveniet, dolor quaerat corporis et natus quis hic aliquam labore voluptates quasi consectetur modi saepe? Rerum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos cum inventore at temporibus iusto eveniet, dolor quaerat corporis et natus quis hic aliquam labore voluptates quasi consectetur modi saepe? Rerum..</p>
     
     </div>
 </body>
